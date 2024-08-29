@@ -10,10 +10,12 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class TextReadWrite {
-
-
+public static void main(String[] args) throws IOException {
+	
+	textReadOne();
+}
 	//Approach-1 FileReader and BufferedReader classes
-	public void textReadOne() throws IOException
+	public static void textReadOne() throws IOException
 	{
 		FileReader fr = new FileReader("C:\\Users\\Priji\\eclipse-workspace\\orangehrm\\src\\test\\resources\\textRead.txt");
 		BufferedReader br= new BufferedReader(fr);

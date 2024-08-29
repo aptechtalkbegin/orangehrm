@@ -1,2 +1,0 @@
-My Name is Ashish Pandey
-I am doing automation testing using Selenium-Java

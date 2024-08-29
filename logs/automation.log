@@ -7,3 +7,6 @@
 17:02:14.437 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Test Execution Started ########
 17:02:14.442 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Login to Orangehrm Application  ########
 17:02:15.304 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Login to Orangehrm Application is successful ########
+19:04:08.370 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Test Execution Started ########
+19:04:08.379 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Login to Orangehrm Application  ########
+19:04:09.241 [main] INFO  com.qa.testCases.Test_Login_Page - ######## Login to Orangehrm Application is successful ########

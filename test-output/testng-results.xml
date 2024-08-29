@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="4" passed="2" failed="1" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-18T17:01:58 IST" name="Default suite" finished-at="2023-09-18T17:02:26 IST" duration-ms="28453">
+  <suite started-at="2024-02-28T19:03:47 IST" name="Default suite" finished-at="2024-02-28T19:04:44 IST" duration-ms="57016">
     <groups>
     </groups>
-    <test started-at="2023-09-18T17:01:58 IST" name="Default test" finished-at="2023-09-18T17:02:26 IST" duration-ms="28453">
+    <test started-at="2024-02-28T19:03:47 IST" name="Default test" finished-at="2024-02-28T19:04:44 IST" duration-ms="57016">
       <class name="com.qa.testCases.Test_Login_Page">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:01:58 IST" name="setup" finished-at="2023-09-18T17:02:14 IST" duration-ms="16121" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:03:47 IST" name="setup" finished-at="2024-02-28T19:04:08 IST" duration-ms="21057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginPage()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:14 IST" name="testLoginPage" finished-at="2023-09-18T17:02:15 IST" duration-ms="882" status="PASS">
+        <test-method signature="testLoginPage()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:08 IST" name="testLoginPage" finished-at="2024-02-28T19:04:09 IST" duration-ms="896" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:15 IST" name="tearDown" finished-at="2023-09-18T17:02:15 IST" duration-ms="131" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:09 IST" name="tearDown" finished-at="2024-02-28T19:04:09 IST" duration-ms="280" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:15 IST" name="setup" finished-at="2023-09-18T17:02:22 IST" duration-ms="6838" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:09 IST" name="setup" finished-at="2024-02-28T19:04:25 IST" duration-ms="16120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test1()[pri:2, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:22 IST" name="test1" finished-at="2023-09-18T17:02:22 IST" duration-ms="5" status="PASS">
+        <test-method signature="test1()[pri:2, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:25 IST" name="test1" finished-at="2024-02-28T19:04:25 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:22 IST" name="tearDown" finished-at="2023-09-18T17:02:22 IST" duration-ms="126" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:25 IST" name="tearDown" finished-at="2024-02-28T19:04:25 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:22 IST" name="setup" finished-at="2023-09-18T17:02:26 IST" duration-ms="4138" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:25 IST" name="setup" finished-at="2024-02-28T19:04:44 IST" duration-ms="18172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test2()[pri:3, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:26 IST" name="test2" finished-at="2023-09-18T17:02:26 IST" duration-ms="14" status="FAIL">
+        <test-method signature="test2()[pri:3, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:44 IST" name="test2" finished-at="2024-02-28T19:04:44 IST" duration-ms="17" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [B] but found [A]]]>
@@ -83,11 +83,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:26 IST" name="tearDown" finished-at="2023-09-18T17:02:26 IST" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:44 IST" name="tearDown" finished-at="2024-02-28T19:04:44 IST" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="test3()[pri:4, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2023-09-18T17:02:26 IST" name="test3" finished-at="2023-09-18T17:02:26 IST" depends-on-methods="com.qa.testCases.Test_Login_Page.test2" duration-ms="0" status="SKIP">
+        <test-method signature="test3()[pri:4, instance:com.qa.testCases.Test_Login_Page@2892d68]" started-at="2024-02-28T19:04:44 IST" name="test3" finished-at="2024-02-28T19:04:44 IST" depends-on-methods="com.qa.testCases.Test_Login_Page.test2" duration-ms="0" status="SKIP">
           <exception class="java.lang.Throwable">
             <message>
               <![CDATA[Method com.qa.testCases.Test_Login_Page.test3() on instance com.qa.testCases.Test_Login_Page@2892d68 depends on not successfully finished methods 
